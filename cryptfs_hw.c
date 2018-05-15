@@ -34,7 +34,8 @@
 #include <fcntl.h>
 #include <dirent.h>
 #include <dlfcn.h>
-#include <linux/qseecom.h>
+//#include <linux/qseecom.h>
+#include "qseecom.h"
 #include "cutils/log.h"
 #include "cutils/properties.h"
 #include "cutils/android_reboot.h"
